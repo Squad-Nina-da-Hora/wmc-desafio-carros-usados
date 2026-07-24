@@ -1,7 +1,9 @@
-# Desafio Suplementos - Testes de Hipótese
+# Desafio Carros Usados - Correlação e Regressão
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+
+Quinto desafio em squad do Bootcamp Data Analytics 2026.1, oferecido pela [WoMakersCode](https://womakerscode.org/). Desenvolvido para aprofundar o conhecimento em Correlação e Regressão de Estatística com Python, analisando a venda de veículos usados de uma empresa.
 
 > **🎯 Objetivo:** 
 
